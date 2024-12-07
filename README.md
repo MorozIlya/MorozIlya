@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MorozIlya
 - 👀 I’m interested in it technologies
-- 🌱 I’m currently learning in GeekBrains
 - 📫 How to reach me - moroz-il@yandex.ru
 
 <!---
